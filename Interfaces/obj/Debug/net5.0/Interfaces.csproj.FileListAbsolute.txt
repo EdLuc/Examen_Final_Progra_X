@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Interfaces\bin\Debug\net5.0\Interfaces.deps.json
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Interfaces\bin\Debug\net5.0\Interfaces.dll
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Interfaces\bin\Debug\net5.0\ref\Interfaces.dll
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Interfaces\bin\Debug\net5.0\Interfaces.pdb
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Interfaces\bin\Debug\net5.0\Modelos.dll
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Interfaces\bin\Debug\net5.0\Modelos.pdb
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Interfaces\obj\Debug\net5.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Interfaces\obj\Debug\net5.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfo.cs
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Interfaces\obj\Debug\net5.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Interfaces\obj\Debug\net5.0\Interfaces.csproj.CopyComplete
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Interfaces\obj\Debug\net5.0\Interfaces.dll
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Interfaces\obj\Debug\net5.0\ref\Interfaces.dll
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Interfaces\obj\Debug\net5.0\Interfaces.pdb

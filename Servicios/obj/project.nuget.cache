@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jEb+muq5KxxMJbh91Pm9P2t3F6Oxfta0RqSfUjPr04XbA29Czt7lXJmAs63Qn/1es5WqaPpaBVuTwMCqXqDxqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\Desktop\\18vo. Trimestre UdeO\\Programación X\\Examen Final Progra X, 1804002020\\Servicios\\Servicios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512"
+  ],
+  "logs": []
+}

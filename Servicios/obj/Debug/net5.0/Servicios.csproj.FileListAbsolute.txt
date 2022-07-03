@@ -1,0 +1,17 @@
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Servicios\bin\Debug\net5.0\Servicios.deps.json
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Servicios\bin\Debug\net5.0\Servicios.dll
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Servicios\bin\Debug\net5.0\ref\Servicios.dll
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Servicios\bin\Debug\net5.0\Servicios.pdb
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Servicios\bin\Debug\net5.0\Interfaces.dll
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Servicios\bin\Debug\net5.0\Modelos.dll
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Servicios\bin\Debug\net5.0\Interfaces.pdb
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Servicios\bin\Debug\net5.0\Modelos.pdb
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Servicios\obj\Debug\net5.0\Servicios.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Servicios\obj\Debug\net5.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Servicios\obj\Debug\net5.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Servicios\obj\Debug\net5.0\Servicios.AssemblyInfo.cs
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Servicios\obj\Debug\net5.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Servicios\obj\Debug\net5.0\Servicios.csproj.CopyComplete
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Servicios\obj\Debug\net5.0\Servicios.dll
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Servicios\obj\Debug\net5.0\ref\Servicios.dll
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Servicios\obj\Debug\net5.0\Servicios.pdb

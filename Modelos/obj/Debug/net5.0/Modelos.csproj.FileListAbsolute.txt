@@ -1,0 +1,12 @@
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Modelos\bin\Debug\net5.0\Modelos.deps.json
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Modelos\bin\Debug\net5.0\Modelos.dll
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Modelos\bin\Debug\net5.0\ref\Modelos.dll
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Modelos\bin\Debug\net5.0\Modelos.pdb
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Modelos\obj\Debug\net5.0\Modelos.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Modelos\obj\Debug\net5.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Modelos\obj\Debug\net5.0\Modelos.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Modelos\obj\Debug\net5.0\Modelos.AssemblyInfo.cs
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Modelos\obj\Debug\net5.0\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Modelos\obj\Debug\net5.0\Modelos.dll
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Modelos\obj\Debug\net5.0\ref\Modelos.dll
+C:\Users\lucas\Desktop\18vo. Trimestre UdeO\Programación X\Examen Final Progra X, 1804002020\Modelos\obj\Debug\net5.0\Modelos.pdb
